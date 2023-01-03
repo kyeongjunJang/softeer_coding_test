@@ -1,6 +1,6 @@
 # TODO
 - Level 2
-- [ ] GBC
+- [X] GBC
 - Level 3
 - [ ] 성적 평균
 - [ ] 택배 마스터 광우
