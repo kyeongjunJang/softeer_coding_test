@@ -1,7 +1,7 @@
 # TODO
-Level 2
+[Level 2]
 - GBC
-Level 3
+[Level 3]
 - 성적 평균
 - 택배 마스터 광우
 - 로봇이 지나간 경로
