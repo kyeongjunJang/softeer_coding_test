@@ -5,7 +5,7 @@ score_sum = [0 for _ in range(N)]
 for i in range(3):
     rank = [0 for j in range(N)]
     score_list = list(map(int, input().split()))
-    score_dict = {}    
+    score_dict = {}
     for j in range(N):
         score_sum[j] += score_list[j]
         score_dict[j] = score_list[j]
