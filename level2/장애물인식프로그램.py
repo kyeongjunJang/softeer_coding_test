@@ -1,11 +1,9 @@
 from collections import deque
-
 N = int(input())
 
 dy = [-1, 1, 0, 0]
 dx = [0, 0, -1, 1]
 ans = []
-
 mapp = []
 for i in range(N):
     line = list(map(int,input()))
